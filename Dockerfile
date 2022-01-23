@@ -1,7 +1,13 @@
-FROM python:3.7-slim-stretch
+FROM python:3.10-slim
 
-COPY . .
+WORKDIR /app
 
-RUN pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+COPY . /app
+
+RUN apt-get update && apt-get install -y \
+    g++ \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN pip install -r requirements.txt
 
 CMD [ "python", "index.py" ]
