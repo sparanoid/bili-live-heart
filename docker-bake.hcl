@@ -4,6 +4,7 @@ variable "DEFAULT_TAG" {
 
 # Special target: https://github.com/docker/metadata-action#bake-definition
 target "docker-metadata-action" {
+  dockerfile = "fork.Dockerfile"
   tags = "${DEFAULT_TAG}"
 }
 
