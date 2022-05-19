@@ -1,13 +1,22 @@
+<div align="center">
+<p align="center">
+<h1>官方公告</h1>
+<a href="https://imgtu.com/i/OWzr8I"><img src="https://s1.ax1x.com/2022/05/16/OWzr8I.png" alt="OWzr8I.png" border="0" width="400"/></a>
+</p>
+ </div>  
+ 
+---  
+
 <p align="center">
   <img src="https://s2.loli.net/2022/01/11/6OM8kDZpa5WLid4.png" width="200" height="200" alt="">
 </p>
 <div align="center">
-
+  
 # **Bilibili粉丝牌助手**  
-### 当前版本：1.2.1
+### 当前版本：1.2.2
  </div>
 
-# 【已修复】 3-26 小心心助手全崩了，原因是版本检测失败  
+# 5-10 解除使用条件，该项目不再更新维护  
 
 ## 如何更新：
 
@@ -25,10 +34,6 @@
 > Server酱微信推送 ✅  
 > 自动弹幕打卡所有粉丝牌房间 ✅   
 
-## 说明！ 
-本项目自 1.2.0 版本之后，所挂B站账号**必须**关注A-SOUL**五人**B站账号，否者脚本拒绝运行！
-
-想用的纯路人就乖乖点关注，有能力的自己去改源码，不难，没能力的就别叫了，这个项目本来就是给AU写的，[魂组的帖子](https://www.douban.com/group/topic/251270154)700多楼答疑、1600收藏，开源是我大度，不是我的义务，有些人就是白嫖惯了，叫你点个关注在那bb，叫你妈呢？不想点给我滚蛋，傻卵东西😅。
 
 ## 详细文档！请仔细阅读！
 如果文档没更新，请尝试`Ctrl` + `F5` 刷新网页  
